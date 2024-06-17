@@ -2,8 +2,13 @@
   "users": [
     {
       "id": 1,
-      "username": "test-user",
-      "favourites": []
+      "username": "admin",
+      "password": "admin",
+      "first-name": "admin",
+      "last-name": "admin",
+      "email": "admin@admin.com",
+      "caught": [],
+      "favorites": []
     }
   ]
 }
