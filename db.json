@@ -7,8 +7,13 @@
       "first-name": "admin",
       "last-name": "admin",
       "email": "admin@admin.com",
-      "caught": [],
-      "favorites": []
+      "caught": {"1": "bulbasaur",
+                 "4": "charmander",
+                 "7": "squirtle"},
+      "favourites": {"1":"bulbasaur", 
+                    "2":"Ivysaur", 
+                    "3":"Venusaur"},
+      "profile_icon": "icon_1.png"
     }
   ]
 }
