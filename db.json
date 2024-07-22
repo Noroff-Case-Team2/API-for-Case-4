@@ -7,6 +7,7 @@
       "first-name": "admin",
       "last-name": "admin",
       "email": "admin@admin.com",
+      "birthday": "2024-01-01",
       "caught": {"1": "bulbasaur",
                  "4": "charmander",
                  "7": "squirtle"},
